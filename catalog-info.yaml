@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 'sample Github actions integration service'
+  name: 'sample Github actions integration'
   description: Component with GitHub actions enabled.
   annotations:
     github.com/projet-slug: 'dastin-sandura/backstage-github-actions-integration'
