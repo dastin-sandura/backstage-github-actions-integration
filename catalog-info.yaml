@@ -4,7 +4,7 @@ metadata:
   name: sample-Github-actions-integration
   description: Component with GitHub actions enabled.
   annotations:
-    github.com/projet-slug: 'dastin-sandura/backstage-github-actions-integration'
+    github.com/project-slug: 'dastin-sandura/backstage-github-actions-integration'
 spec:
   type: service
   lifecycle: production
